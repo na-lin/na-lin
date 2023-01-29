@@ -3,6 +3,7 @@
 I'm a software engineer with a focus on JavaScript. I'm very passionate about solving real-world problem and consistently growing with new skills.
 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 
 
