@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Na, welcome to my github page!
+
+I'm a software engineer with a focus on JavaScript. I'm very passionate about solving real-world problem and consistently growing with new skills.
 
 <!--
 **na-lin/na-lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
