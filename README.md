@@ -4,20 +4,16 @@ I'm a software engineer with a focus on JavaScript. I'm very passionate about so
 
 #### Tech Stack
 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img
 src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
 alt=""
-/>
-<img
+/> <img
 src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
 alt=""
-/>
-
-<img
+/> <img
 src="	https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"
 alt=""
-/>
+/> 
 <img
 src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
 alt=""
@@ -26,7 +22,6 @@ alt=""
 src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"
 alt=""
 />
-
 <img
 src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
 alt=""
