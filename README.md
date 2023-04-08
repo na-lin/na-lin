@@ -58,6 +58,10 @@ I'm a software engineer with a focus on JavaScript. I'm very passionate about so
   src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"
   alt=""
 />
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=na-lin)](https://git.io/streak-stats)
+
+
 <!--
 **na-lin/na-lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
