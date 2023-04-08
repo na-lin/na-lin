@@ -61,6 +61,9 @@ I'm a software engineer with a focus on JavaScript. I'm very passionate about so
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=na-lin)](https://git.io/streak-stats)
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=na-lin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+
 
 <!--
 **na-lin/na-lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
